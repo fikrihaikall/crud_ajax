@@ -1,0 +1,17 @@
+/* #AAC8A7 #C3EDC0   #E9FFC2  #FDFFAE */
+
+body{
+   background-color: #E9FFC2;
+   width: 100%;
+   margin: 0;
+   overflow-x: hidden;
+   padding: 2rem;
+}
+
+.btn-edit{
+   font-size: 25px !important;
+   background-color: lightgreen;
+   color: green;
+   padding: 3px;
+   border-radius: 10px;
+}
